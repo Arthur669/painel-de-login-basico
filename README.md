@@ -1,4 +1,4 @@
-# painel-de-login-basico-sem-interface
+# painel-de-login-basico
 Um simples painel de login sem interface grafica
 credenciais de login
 nome de usuario:nexusadmin/123
